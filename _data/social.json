@@ -14,9 +14,9 @@
     },
     {
       "type": "linkedin",
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
+      "title": "Google Photos",
+      "icon": "fa-google",
+      "url": "https://photos.app.goo.gl/oBiNgAQH9CazLHhc9"
     }
   ]
 }
