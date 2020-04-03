@@ -1,10 +1,10 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+title: Programs
+subtitle: 'The programs that STEM for the Streets offers to underprivileged students. '
 layout_style: mosaic
-menus:
-  main:
-    title: Portfolio
-    weight: 2
 layout: portfolio
+menu:
+  main:
+    weight: 2
+
 ---
