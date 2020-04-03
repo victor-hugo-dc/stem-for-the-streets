@@ -9,12 +9,13 @@ sections:
   content: Ensuring that every child receives an equal opportunity.
 - type: portfolioblock
   template: portfolioblock
-  title: Recent Work
+  title: Our Programs
   section_id: latest-projects
   component: portfolio_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: The programs we offer in elementary and middle schools in the Washington,
+    D.C. Metropolitan Area.
   layout_style: mosaic
-  num_projects_displayed: 6
+  num_projects_displayed: 4
   view_all_text: View All
   view_all_url: portfolio/index.html
 - type: servicesblock
