@@ -34,10 +34,8 @@ sections:
       of the lesson plan. In doing so, students are able to grasp a deeper understanding
       of STEM concepts and gain a more enriching experience.
   - title: Engaging Lessons
-    content: Our sessions are led by secondary school students who know the material
-      and have experience with teaching students. We make sure to provide a blend
-      of lecturing, discussion, and hands-on experiments to ensure our students are
-      learning effectively.
+    content: We make sure to provide a blend of lecturing, discussion, and hands-on
+      experiments to ensure our students are learning effectively.
   - title: Hands-on Experiments
     content: Having the students work on something hands-on makes sure they're engaged
       and are gaining a more in-depth understanding of the material.
