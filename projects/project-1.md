@@ -1,9 +1,9 @@
 ---
-title: STEM for the Streets
-subtitle: Optional Project Subtitle
+title: STEM for the Streets Program
+subtitle: For elementary and middle school students.
 date: 2019-05-10
-thumb_img_path: "/images/IMG_2049.jpg"
-content_img_path: "/images/IMG_2049.jpg"
+thumb_img_path: "/images/main_image.jpg"
+content_img_path: "/images/main_image.jpg"
 layout: project
 
 ---
