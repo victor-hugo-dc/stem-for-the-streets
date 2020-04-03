@@ -55,16 +55,6 @@ sections:
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
       interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
       vel posuere justo laoreet.
-- type: postsblock
-  template: postsblock
-  title: Latest from the Blog
-  section_id: latest-posts
-  component: posts_block.html
-  subtitle: An optional subtitle of the section
-  num_posts_displayed: 2
-  actions:
-  - label: View Blog
-    url: blog/index.html
 - type: contactblock
   template: contactblock
   title: Contact Us
