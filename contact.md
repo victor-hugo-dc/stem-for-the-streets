@@ -1,10 +1,11 @@
 ---
 title: Contact
-menus:
-  main:
-    title: Contact
-    weight: 5
 layout: contact
----
+subtitle: ''
+img_path: ''
+menu:
+  main:
+    weight: 5
 
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [example@example.com](mailto:example@example.com).
+---
+If you have any questions regarding our programs or would like to become a sponsor of our organization, feel free to contact us at [stemforthestreets@gmail.com](mailto:example@example.com).
