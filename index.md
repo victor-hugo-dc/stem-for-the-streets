@@ -20,26 +20,27 @@ sections:
   view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
-  title: What We Do
+  title: Our Methodology
   section_id: services
   component: services_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: How we implement our programs effectively.
   serviceslist:
-  - title: Service Title
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
-      cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla
-      tortor at, pulvinar orci.
-  - title: Service Title
-    content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius. '
-  - title: Service title
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - title: Service title
-    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
-      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
-      efficitur urna viverra et.
+  - title: Mentorship
+    content: "​We believe that while teaching STEM is important, fostering a long
+      term mentorship to guide students to success holds much more value. Those at
+      SFTS have provided these mentorships to 200+ students."
+  - title: Professionals of Color
+    content: We introduce our students to professionals of color within the field
+      of the lesson plan. In doing so, students are able to grasp a deeper understanding
+      of STEM concepts and gain a more enriching experience.
+  - title: Engaging Lessons
+    content: Our sessions are led by secondary school students who know the material
+      and have experience with teaching students. We make sure to provide a blend
+      of lecturing, discussion, and hands-on experiments to ensure our students are
+      learning effectively.
+  - title: Hands-on Experiments
+    content: Having the students work on something hands-on makes sure they're engaged
+      and are gaining a more in-depth understanding of the material.
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
