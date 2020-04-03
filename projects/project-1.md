@@ -1,5 +1,5 @@
 ---
-title: STEM for the Streets Program
+title: STEM for the Streets
 subtitle: For elementary and middle school students.
 date: 2019-05-10
 thumb_img_path: "/images/main_image.jpg"
