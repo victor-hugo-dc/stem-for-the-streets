@@ -2,8 +2,8 @@
 title: STEM for the Streets
 subtitle: Optional Project Subtitle
 date: 2019-05-10
-thumb_img_path: "/images/_DSC0238.JPG"
-content_img_path: "/images/_DSC0238.JPG"
+thumb_img_path: "/images/IMG_2049.jpg"
+content_img_path: "/images/IMG_2049.jpg"
 layout: project
 
 ---
